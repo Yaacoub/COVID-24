@@ -1,0 +1,19 @@
+World Zone:Neighbors
+Eastern Africa:Central Africa,Northern Africa,Southern Africa,Western Asia
+Central Africa:Eastern Africa,Northern Africa,Southern Africa,Western Africa
+Northern Africa:Eastern Africa,Central Africa,Western Africa,Southern Europe
+Southern Africa:Eastern Africa,Central Africa,South America,Oceania
+Western Africa:Central Africa,Northern Africa,Caribbean,South America
+Caribbean:Western Africa,Central America,South America,North America
+Central America:Caribbean,South America,North America,Southern Europe
+South America:Southern Africa,Western Africa,Caribbean,Central America
+North America:Caribbean,Central America,Southern Europe,Western Europe
+Eastern Asia:Central Southern Asia,Eastern Southern Asia,Western Asia,Eastern Europe
+Central Southern Asia:Eastern Asia,Eastern Southern Asia,Western Asia,Eastern Europe
+Eastern Southern Asia:Eastern Asia,Central Southern Asia,Eastern Europe,Oceania
+Western Asia:Eastern Africa,Eastern Asia,Central Southern Asia,Eastern Europe
+Eastern Europe:Eastern Asia,Central Southern Asia,Eastern Southern Asia,Western Asia
+Northern Europe:North America,Eastern Europe,Southern Europe,Western Europe
+Southern Europe:Northern Africa,Central America,North America,Western Europe
+Western Europe:North America,Eastern Europe,Northern Europe,Southern Europe
+Oceania:Southern Africa,North America,Eastern Asia,Eastern Southern Asia
